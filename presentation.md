@@ -9,7 +9,7 @@ theme:
 - focus
 ---
 
-# Wer sind wir?
+# Wo sind wir?
 
 ## rc3.World
 
