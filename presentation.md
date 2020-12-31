@@ -12,7 +12,7 @@ linkstyle: bold
 
 # Wo sind wir?
 
-
+## rc3.world
 in der Dezentrale (chaozone, Spaces @North) untere Etage
 
 ## Outerspace
@@ -71,12 +71,12 @@ in der Dezentrale (chaozone, Spaces @North) untere Etage
 
 ## wo sind wir
  
- - (x) vebit e.V. gründen ... fand Q1 2019 in Dresden
- - (x) 2xx (oder schon mehr...) Member im VEB IT e.V. werden ... wurde in Q4 2019 erreicht
- - (x) Workshops, Camps, remote Meetings und TeleBier... vieles mehr ... 2019 ... 2020
- - (x) passenden Genossenschaftsverband finden ... gefunden im Q3 2020
- - (x) Einsammlung von Zeichnungserklärungen für die Geno ... Stichtag war im Oktober 2020
- - ( ) Eintragung ins Genossenschaftsregister von Hamburg ... geplant fuer Januar/2021
+ - vebit e.V. gründen ... fand Q1 2019 in Dresden
+ - 2xx (oder schon mehr...) Member im VEB IT e.V. werden ... wurde in Q4 2019 erreicht
+ - Workshops, Camps, remote Meetings und TeleBier... vieles mehr ... 2019 ... 2020
+ - passenden Genossenschaftsverband finden ... gefunden im Q3 2020
+ - Einsammlung von Zeichnungserklärungen für die Geno ... Stichtag war im Oktober 2020
+ - Eintragung ins Genossenschaftsregister von Hamburg ... geplant fuer Januar/2021
 
 ---
 
@@ -88,7 +88,7 @@ Fuer eure Aufmerksamkeit
 
 # Questioning & Answering 
 
+### live 
 - \#rc3geno - \#rc3cwtv
 
-### live 
 
